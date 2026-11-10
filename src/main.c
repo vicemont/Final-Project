@@ -39,7 +39,7 @@ int main(int argc, char* argv[])
        memory, storage, threshold, status, ledStatus);
 
     // Save results to a file
-    FILE *file = fopen("health_log.txt", "a");
+    FILE *file = fopen("data/health_log.txt", "a");
 
     if (file != NULL)
     {
