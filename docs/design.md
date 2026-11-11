@@ -1,0 +1,1 @@
+We are using the lpigpio library to connect the software program with the raspberry pi. We connected the pin header in the raspberry pi and connected a ground pin and GPIO 17 to a circuit board connected to an LED.
